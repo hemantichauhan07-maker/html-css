@@ -1,0 +1,21 @@
+
+
+h1{
+    color:blue;
+    border: 10px solid;
+    padding: 100px;
+    margin: 50px;
+}
+div{
+    border:20px solid;
+    padding: 30px;
+    margin: 50px;
+    height: 100px;
+    width: 50px;
+    background-image: url(https://plus.unsplash.com/premium_photo-1786872309957-329539bd4688?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQ4fHZ5WmNJc3lIdlowfHxlbnwwfHx8fHw%3D);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
